@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "a1ccac1d978c4323d1e7a217",
+  "owner": "xw8fcne9",
+  "repo": "page-156267cc71d8a4ebcd4873c1",
+  "title": "优速通(U_Speed)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "156267cc71d8a4ebcd4873c1",
+      "a": "优速通(U_Speed)",
+      "b": "",
+      "entity": "优速通(U_Speed)",
+      "brand": "优速通(U_Speed)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "155f0f797a4f927296e0a4859f1a99490a0eab4a5470c627662b26f0100db056",
+      "content": {
+        "keyword1": "优速通(U_Speed)",
+        "keyword2": "",
+        "primary_entity": "优速通(U_Speed)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "优速通(U_Speed)以问答形式带你了解月度流量套餐、客户端获取方式与售后策略，帮助你判断哪一档更适合日常观看与团队协作。",
+          "AI_DESCRIPTION": "优速通(U_Speed)以问答形式带你了解月度流量套餐、客户端获取方式与售后策略，帮助你判断哪一档更适合日常观看与团队协作。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n  :root{--bg:#2E2418;--bg-soft:#3A2E1F;--fg:#F1ECE0;--fg-muted:#B8AC97;--mint:#7FE3C0;--mint-deep:#4FBF9A;--line:#4A3B29;--shadow:0 0.2rem 0.8rem rgba(0,0,0,0.25)}\n  *{box-sizing:border-box}\n  body{margin:0;background:var(--bg);color:var(--fg);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Microsoft YaHei\",sans-serif;line-height:1.75;font-size:16px}\n  .wrap{max-width:760px;margin:0 auto;padding:0 1.2rem}\n  /* nav */\n  .nav{position:sticky;top:0;z-index:10;background:rgba(46,36,24,0.95);border-bottom:1px solid var(--line);backdrop-filter:blur(6px)}\n  .crumbs{font-size:0.85rem;color:var(--fg-muted);padding:0.6rem 1.2rem;max-width:760px;margin:0 auto}\n  .crumbs a{color:var(--mint);text-decoration:none}\n  .crumbs a:hover{text-decoration:underline}\n  .crumbs .sep{margin:0 0.4rem;opacity:0.6}\n  .toc{max-width:760px;margin:0 auto;padding:0.4rem 1.2rem 0.8rem;font-size:0.85rem;overflow-x:auto;white-space:nowrap}\n  .toc a{display:inline-block;margin-right:1rem;color:var(--fg-muted);text-decoration:none;border:1px solid var(--line);padding:0.15rem 0.6rem;border-radius:2rem}\n  .toc a:hover{color:var(--mint);border-color:var(--mint)}\n  /* hero 长文叙事 */\n  .hero{padding:3rem 0 2rem;border-bottom:1px solid var(--line)}\n  .hero h1{font-size:1.6rem;font-weight:700;margin:0 0 0.8rem;letter-spacing:0.02em}\n  .hero .meta{font-size:0.8rem;color:var(--fg-muted);margin-bottom:1.6rem}\n  .hero p{margin:0 0 1rem;font-size:1.02rem}\n  .hero .lead{font-size:1.1rem;color:var(--mint);border-left:3px solid var(--mint);padding-left:1rem;margin:1.5rem 0}\n  /* section */\n  section{padding:2.5rem 0}\n  h2{font-size:1.3rem;margin:0 0 1.5rem;color:var(--fg);position:relative;padding-bottom:0.6rem;border-bottom:1px dashed var(--line)}\n  h3{font-size:1.05rem;margin:1.8rem 0 0.8rem;color:var(--mint)}\n  p{margin:0 0 1rem}\n  /* card 编号大字压底 */\n  .card{position:relative;background:var(--bg-soft);border-radius:0.6rem;padding:2rem 1.6rem 1.6rem;margin-bottom:1.5rem;overflow:hidden;border:1px solid var(--line)}\n  .card .num{position:absolute;right:-0.2rem;bottom:-1.6rem;font-size:7rem;font-weight:900;color:rgba(127,227,192,0.08);line-height:1;pointer-events:none;user-select:none}\n  .card .tag{display:inline-block;font-size:0.75rem;color:var(--bg);background:var(--mint);padding:0.1rem 0.6rem;border-radius:1rem;margin-bottom:0.6rem}\n  .card .tag.muted{background:transparent;color:var(--fg-muted);border:1px solid var(--line)}\n  .card h3{margin:0 0 0.4rem;font-size:1.3rem;color:var(--fg)}\n  .price{font-size:1.1rem;color:var(--mint);font-weight:700;margin-bottom:0.2rem}\n  .annual{font-size:0.85rem;color:var(--fg-muted);margin-bottom:1rem}\n  .features{list-style:none;padding:0;margin:1rem 0 0;position:relative;z-index:1}\n  .features li{padding:0.4rem 0;border-top:1px dashed var(--line);font-size:0.95rem}\n  .features li:before{content:\"—\";color:var(--mint);margin-right:0.5rem}\n  /* faq */\n  details{background:var(--bg-soft);border:1px solid var(--line);border-radius:0.5rem;padding:1rem 1.2rem;margin-bottom:0.8rem}\n  details[open]{border-color:var(--mint-deep)}\n  summary{cursor:pointer;font-weight:600;color:var(--fg);list-style:none;position:relative;padding-right:1.5rem}\n  summary::-webkit-details-marker{display:none}\n  summary:after{content:\"+\";position:absolute;right:0;color:var(--mint);font-weight:700}\n  details[open] summary:after{content:\"—\"}\n  details p{margin:0.8rem 0 0;color:var(--fg-muted);font-size:0.95rem}\n  /* steps */\n  .steps{counter-reset:step}\n  .steps .step{position:relative;padding-left:3rem;margin-bottom:1.8rem}\n  .steps .step:before{counter-increment:step;content:counter(step);position:absolute;left:0;top:0;width:2rem;height:2rem;line-height:2rem;text-align:center;background:var(--mint);color:var(--bg);border-radius:50%;font-weight:700;font-size:0.9rem}\n  .steps .step h3{margin:0 0 0.3rem;color:var(--fg);font-size:1rem}\n  .steps .step p{margin:0;color:var(--fg-muted);font-size:0.92rem}\n  /* client */\n  .client{background:var(--bg-soft);border:1px solid var(--line);border-radius:0.6rem;padding:1.4rem;margin-bottom:1rem;display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap}\n  .client .info{flex:1;min-width:200px}\n  .client .platform{font-size:0.8rem;color:var(--fg-muted);margin-bottom:0.2rem}\n  .client .name{font-weight:600;margin-bottom:0.3rem}\n  .client .desc{font-size:0.85rem;color:var(--fg-muted)}\n  .client .btn{display:inline-block;padding:0.5rem 1rem;background:var(--mint);color:var(--bg);text-decoration:none;border-radius:0.4rem;font-size:0.9rem;font-weight:600;white-space:nowrap}\n  .client .btn.muted{background:transparent;color:var(--fg-muted);border:1px solid var(--line)}\n  /* footer */\n  footer{padding:2.5rem 0;border-top:1px solid var(--line);text-align:center;color:var(--fg-muted);font-size:0.85rem}\n  footer .brand{color:var(--mint);font-weight:600;margin-bottom:0.3rem}\n  @media (max-width:600px){\n    .hero h1{font-size:1.35rem}\n    .card .num{font-size:5rem}\n    .toc{font-size:0.8rem}\n  }\n</style><nav class=\"nav\" aria-label=\"主导航\">\n  <div class=\"crumbs\">\n    <a href=\"#top\">首页</a>\n    <span class=\"sep\">/</span>\n    <span>优速通(U_Speed)</span>\n    <span class=\"sep\">/</span>\n    <span>套餐与问答</span>\n  </div>\n  <div class=\"toc\">\n    <a href=\"#intro\">导读</a>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#use\">使用方法</a>\n    <a href=\"#clients\">客户端</a>\n    <a href=\"#faq\">常见问题</a>\n  </div>\n</nav>\n\n<main id=\"top\">\n  \n  <section class=\"hero wrap\" id=\"intro\">\n    <h1>优速通(U_Speed)：一封写给犹豫者的长信</h1>\n    <div class=\"meta\">作者：优速通编辑组 · 阅读约 4 分钟</div>\n\n    <p>很多人第一次接触「优速通(U_Speed)」，都是从一个模糊的疑问开始的：我每月刷视频、偶尔开会、偶尔下载文件，到底需要多少流量？我该选最便宜的，还是最贵的？会不会买了之后用不完，又或者到月中就被限速？</p>\n\n    <p>这篇文章不会给你一句「选旗舰就对了」。它更像编辑部内部的一次长聊记录：我们把你最常问的几件事，按顺序写清楚。先说流量与设备数量的关系，再说三档套餐各自适合谁，最后讲客户端怎么拿、出问题找谁。</p>\n\n    <div class=\"lead\">如果你只想知道结论——请直接跳到「套餐」一节；如果你愿意花几分钟把来龙去脉看明白，我们就从这里开始。</div>\n\n    <p>先回答一个被反复问到的问题：「100GB 够用吗？」我们的回答是：如果你主要在手机上刷短视频、偶尔在电脑上看一部电影，100GB 通常够一个月；但如果你家里有三四台设备同时看 4K、还要开会、还要下载大文件，那它会在第三周就开始让你焦虑。</p>\n\n    <p>所以优速通(U_Speed)的设计逻辑并不复杂：**基础版**给轻度使用者，**旗舰版**给家庭与小工作室，**团队版**给有明确多人协作需求的小团队。下面会逐档说明。</p>\n  </section>\n\n  \n  <section class=\"wrap\" id=\"plans\">\n    <h2>套餐：三档，按使用量而非噱头区分</h2>\n    <p>下列价格为官方公开标价，按年付会略低于按月累计。我们不设置隐藏档位，也不做「限时抢购」式倒计时。</p>\n\n    <article class=\"card\">\n      <span class=\"num\">01</span>\n      <span class=\"tag muted\">入门</span>\n      <h3>基础版</h3>\n      <div class=\"price\">¥15/月</div>\n      <div class=\"annual\">按年付仅需 ¥150/年</div>\n      <ul class=\"features\">\n        <li>每月 100GB 极速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n    </article>\n\n    <article class=\"card\">\n      <span class=\"num\">02</span>\n      <span class=\"tag\">推荐</span>\n      <h3>旗舰版</h3>\n      <div class=\"price\">¥35/月</div>\n      <div class=\"annual\">按年付仅需 ¥350/年</div>\n      <ul class=\"features\">\n        <li>每月 300GB 极速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7×24 优先工单支持</li>\n      </ul>\n    </article>\n\n    <article class=\"card\">\n      <span class=\"num\">03</span>\n      <span class=\"tag muted\">多人</span>\n      <h3>团队版</h3>\n      <div class=\"price\">¥85/月</div>\n      <div class=\"annual\">按年付仅需 ¥850/年</div>\n      <ul class=\"features\">\n        <li>每月 1000GB 极速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </article>\n  </section>\n\n  \n  <section class=\"wrap\" id=\"use\">\n    <h2>使用方法：从下单到第一次连接</h2>\n    <p>很多第一次购买的朋友会在「买完之后该做什么」这一步卡住。我们把整个流程拆成四步，按顺序完成即可。</p>\n\n    <div class=\"steps\">\n      <div class=\"step\">\n        <h3>选择套餐并完成订阅</h3>\n        <p>根据上面的说明选一档。不确定的话，先用基础版试一个月，不满意再升级，差价按剩余天数折算。</p>\n      </div>\n      <div class=\"step\">\n        <h3>登录账户中心获取订阅链接</h3>\n        <p>付款成功后，登录优速通(U_Speed)账户中心，在「我的订阅」里复制专属订阅链接。这条链接就是你的身份凭证，不要公开分享。</p>\n      </div>\n      <div class=\"step\">\n        <h3>下载对应平台的客户端</h3>\n        <p>在下方「客户端」一节找到你的系统，下载安装。部分平台使用通用客户端，导入订阅链接即可。</p>\n      </div>\n      <div class=\"step\">\n        <h3>导入链接并选择节点</h3>\n        <p>打开客户端，找到「导入订阅」或「从剪贴板导入」，粘贴刚才复制的链接。更新节点列表后，选择一个延迟较低的节点连接。</p>\n      </div>\n    </div>\n  </section>\n\n  \n  <section class=\"wrap\" id=\"clients\">\n    <h2>客户端：各平台获取方式</h2>\n    <p>优速通(U_Speed)不强制使用专属客户端，大部分平台可使用社区通用工具导入订阅。下表列出常见平台的获取建议。</p>\n\n    <div class=\"client\">\n      <div class=\"info\">\n        <div class=\"platform\">Windows</div>\n        <div class=\"name\">通用客户端导入</div>\n        <div class=\"desc\">建议使用支持订阅链接的通用客户端，导入后自动更新节点。</div>\n      </div>\n      <a class=\"btn muted\" href=\"#\">获取指引</a>\n    </div>\n\n    <div class=\"client\">\n      <div class=\"info\">\n        <div class=\"platform\">macOS</div>\n        <div class=\"name\">通用客户端导入</div>\n        <div class=\"desc\">使用支持订阅链接的通用客户端，复制链接后在客户端中添加。</div>\n      </div>\n      <a class=\"btn muted\" href=\"#\">获取指引</a>\n    </div>\n\n    <div class=\"client\">\n      <div class=\"info\">\n        <div class=\"platform\">Android</div>\n        <div class=\"name\">通用客户端导入</div>\n        <div class=\"desc\">在应用商店搜索支持订阅的通用客户端，或扫描账户中心提供的二维码。</div>\n      </div>\n      <a class=\"btn muted\" href=\"#\">获取指引</a>\n    </div>\n\n    <div class=\"client\">\n      <div class=\"info\">\n        <div class=\"platform\">iOS / iPadOS</div>\n        <div class=\"name\">通用客户端导入</div>\n        <div class=\"desc\">App Store 中搜索支持订阅链接的通用客户端，复制链接后导入。</div>\n      </div>\n      <a class=\"btn muted\" href=\"#\">获取指引</a>\n    </div>\n  </section>\n\n  \n  <section class=\"wrap\" id=\"faq\">\n    <h2>常见问题：你接下来大概会问这些</h2>\n    <p>以下问题根据过往工单整理，按出现频率排序。点开即可查看回答。</p>\n\n    <details>\n      <summary>流量用完了怎么办？</summary>\n      <p>当月流量用完后，连接会被暂停，次月自动恢复。如需中途继续使用，可在账户中心单独购买流量加包，加包立即生效，有效期至当月订阅结束。</p>\n    </details>\n\n    <details>\n      <summary>可以中途升级套餐吗？</summary>\n      <p>可以。升级时按剩余天数折算差价，无需重新支付整月。降级则在下一个计费周期生效，当月不变。</p>\n    </details>\n\n    <details>\n      <summary>一台设备算几个名额？</summary>\n      <p>同一台设备同时连接算一个名额，断开后名额释放。基础版支持 3 台设备同时在线，是指同一时刻最多 3 台，不是「终身只能绑定 3 台」。</p>\n    </details>\n\n    <details>\n      <summary>支持哪些流媒体？</summary>\n      <p>基础版支持常见流媒体的基础解锁；旗舰版与团队版提供全节点原生流媒体解锁。具体平台兼容性可能随服务方策略变化，我们不承诺对某一特定平台的永久解锁。</p>\n    </details>\n\n    <details>\n      <summary>可以退款吗？</summary>\n      <p>优速通(U_Speed)目前不提供无理由退款。如果是因为节点故障导致连续 48 小时无法使用，可提交工单申请按比例补偿时长。</p>\n    </details>\n\n    <details>\n      <summary>团队版的「专属客户经理」是什么意思？</summary>\n      <p>指由一位固定人员对接你所在团队的技术与续费问题，响应优先级高于普通工单。通常在工作时段内 2 小时内首次回复。</p>\n    </details>\n  </section>\n</main>\n\n<footer>\n  <div class=\"brand\">优速通(U_Speed)</div>\n  <div>本文内容为编辑整理，价格与权益以账户中心实际显示为准。</div>\n</footer>",
+          "hash": "7199721247278c63f98875fcd5c4b234b4e3ce2e61741b76decf645b244e4b25",
+          "seo": {
+            "title": "优速通(U_Speed)：长文问答与套餐指南",
+            "keywords": "优速通, U_Speed, 流量套餐, 客户端, 常见问题",
+            "description": "优速通(U_Speed)以问答形式带你了解月度流量套餐、客户端获取方式与售后策略，帮助你判断哪一档更适合日常观看与团队协作。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "7708",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "9 深棕配薄荷",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huaer10.cn",
+    "host": "p-7038908b83.huaer10.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "cee423389a616d1fa510341322a606d6517d9cb9df5e2a2cc2fbbe1087c89cbf",
+    "sitemap.xml": "80b09cc1b3d6062775a4703f0de01aaf8a2a119a6c7f015a6900e099bc1a8e4f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7c5bcfffc40f6c8a99d13519b24b8a058c47ef534040c6ef1f90e561c96ea237",
+    "robots.txt": "a6f3f9a522b34851018aa7a08aac8016f5c75f6eb42596439335ecc87f9b37dc",
+    "064800acf23dd25db3f8a0ee1d11cfc7.txt": "9ea30bb95c1e7fa1c080e009e2833158be3f2a2710bf0fb581e0d5748f4a808e"
+  },
+  "revision": "17db8235dfd9b2d6cf2e0807a03547e3789ee22f7d040ef6409dcd77e0a7671f"
+}
